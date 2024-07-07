@@ -6,8 +6,8 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '967772822646', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
+  ['967772822646', 'Shizo Techie ❤️✨', true]
 ]
 global.mods = []
 global.prems = []
@@ -56,9 +56,9 @@ global.replitHost = 0
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['919637987574','919637987574']
-global.prems = ['919637987574','919637987574']
-global.allowed = ['919637987574','919637987574']
+global.mods = ['967772822646','967772822646']
+global.prems = ['967772822646','967772822646']
+global.allowed = ['967772822646','967772822646']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
