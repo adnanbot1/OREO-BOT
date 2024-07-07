@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 let totalf = Object.values(global.plugins).filter(v => v.help && v.tags).length
 let tags = { 'main': 'Main' }
 const defaultMenu = {
-  before: `┏━━━ ❮❮ 𝙼𝙴𝙽𝚄 ❯❯
+  before: `┏━━━ ❮❮ القائمة ❯❯
 ┃⫹⫺ *𝙽𝚊𝚖𝚎:* ${global.author}
 ┃⫹⫺ *𝚃𝚘𝚝𝚊𝚕:* ${totalf} + Features
 ┃⫹⫺ *𝚅𝚎𝚛𝚜𝚒𝚘𝚗:* V1.4.3
